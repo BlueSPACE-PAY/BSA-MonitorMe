@@ -38,18 +38,3 @@ It then sends the data to a consolidated monitoring screen (per nurses station) 
 
 10. Maximum number of patients per physical MonitorMe instance: 500
 
-# Non-Functional Requirements
-1. # Scalability 
-StayHealthy, Inc. is looking towards adding more vital sign monitoring devices for MonitorMe in the future.
-
-2. # Integrity 
-Vital sign data analyzed and recorded through MonitorMe must be as accurate as possible. After all, human lives are at stake.
-
-3. # Agility
-As this is a new line of business for StayHealthy, we expect a lot of change as we learn more about this new market.
-
-4. # Security
-StayHealthy, Inc. has always taken patient confidentially seriously. MonitorMe should be no exception to this rule.
-
-5. # Availability
-This is a critical system that deals with human lives and this should reflect and the Service Level Objectives. The system must be available at all time to safeguard the lives of the patients.
